@@ -1,0 +1,7 @@
+E:\Must safe\FinalConnectFour\ConnectFour\ConnectFourCTG\ConnectFourCTG\bin\Debug\ConnectFourCTG.exe.config
+E:\Must safe\FinalConnectFour\ConnectFour\ConnectFourCTG\ConnectFourCTG\bin\Debug\ConnectFourCTG.exe
+E:\Must safe\FinalConnectFour\ConnectFour\ConnectFourCTG\ConnectFourCTG\bin\Debug\ConnectFourCTG.pdb
+E:\Must safe\FinalConnectFour\ConnectFour\ConnectFourCTG\ConnectFourCTG\obj\Debug\ConnectFourCTG.csprojAssemblyReference.cache
+E:\Must safe\FinalConnectFour\ConnectFour\ConnectFourCTG\ConnectFourCTG\obj\Debug\ConnectFourCTG.csproj.CoreCompileInputs.cache
+E:\Must safe\FinalConnectFour\ConnectFour\ConnectFourCTG\ConnectFourCTG\obj\Debug\ConnectFourCTG.exe
+E:\Must safe\FinalConnectFour\ConnectFour\ConnectFourCTG\ConnectFourCTG\obj\Debug\ConnectFourCTG.pdb
